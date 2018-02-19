@@ -1,0 +1,22 @@
+#pragma once
+#define BULLET_POWER_HIGH 10
+#define BULLET_POWER_LOW 5
+#define SPEED_HIGH 2
+#define SPEED_LOW 1
+#define HEALTH_HIGH 15
+#define HEALTH_LOW 10
+#define ENEMY_HEALTH 8
+#define ENEMY_BULLET "bullet_new.png"
+#define PLAYER_BULLET "bullet3_new.png"
+#define ENEMY_BULLET_TAG 21
+#define PLAYER_BULLET_TAG 31
+#define PLAYER_TAG 1
+#define ENEMY_TAG 11
+#define UNIT_MOVEMENT 300
+
+#define COLLISION_PLAYERBULLET_ENEMY 3
+#define COLLISION_PLAYER_ENEMYBULLET 1
+#define COLLISION_PLAYER_ENEMY 2
+#define NO_REQUIRED_COLLISION 0
+
+#define PI 0.0174532925
